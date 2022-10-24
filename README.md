@@ -1,4 +1,4 @@
-## testando k6 e grafana reports
+## Testando com K6 e grafana reports
 
 ### Para rodar o grafana via docker primeiro instale i docker, depois execute os comandos
 docker-compose up -d influxdb grafana
