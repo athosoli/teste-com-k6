@@ -41,10 +41,10 @@ export const options = {
 
 export default function () {
  
-  const url = 'https://sasweb2-mod-bff-v1-sasweb2-produto-hom.apps.ocp4-dev.sascar.com.br/fleets-utilization/utilization'
+  const url = 'https://****'
 
   const headers ={ 'headers': {
-    'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VySWQiOjE4MTc3NSwiY3VzdG9tZXJJZCI6MTYyMDU4LCJjdXN0b21lckV4dGVybmFsSWQiOjAsInVzZXJMb2dpbiI6IldBQkVSRVJTLkhVIiwic3ViIjoiV0FCRVJFUlMuSFUiLCJleHAiOjE2NjY1NzA3NjAsImlhdCI6MTY2NjQ4NDM2MH0.vPar0wLcG_fqT2q2U9UATc-UaOYCLtCAzxxW-2jMdatrd-ATyNG-FsorVYU_UMxF30591cWwlqL6nw1aCPY0uA',
+    'Authorization': 'Bearer ****,
     'Content-Type': 'application/json'
 }
 }
